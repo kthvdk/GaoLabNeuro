@@ -21,7 +21,7 @@
 
 
 % Import seizure data and all recording dates
-seizures = readtable('.../3s_seizures.csv');
+seizures = readtable('.../seizures.csv');
 % swds = readtable('.../swds.csv');
 all_recordings = readtable('.../all_recording_dates.csv');
 
